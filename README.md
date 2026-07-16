@@ -55,6 +55,7 @@
 
 - <https://github.com/google-deepmind/mujoco_playground>
 - <https://github.com/Hellod035/LeggedLab>
+- https://github.com/Yixuan623/quadrupeds_locomotion
 
 ### 嵌入式与电子电路
 
