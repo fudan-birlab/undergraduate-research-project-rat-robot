@@ -75,3 +75,32 @@
 ## 学习情况记录表
 【腾讯文档】小鼠机器人项目学习进度表
 - https://docs.qq.com/sheet/DSkZ1TVdJYVdobG54
+
+## 论文清单
+Advances, Challenges, and Opportunities for Legged Robots
+系统综述足式机器人在硬件、运动控制、自主性、数据和应用方面的进展，并讨论技术挑战及社会影响。
+链接：https://doi.org/10.1126/scirobotics.eaee0787
+
+AME-2: Agile and Generalized Legged Locomotion via Attention-Based Neural Map Encoding
+提出基于注意力地图编码和不确定性感知建图的强化学习框架，使四足与双足机器人能够敏捷地适应未见地形。
+链接：https://arxiv.org/abs/2601.08485
+
+ANYmal Parkour: Learning Agile Navigation for Quadrupedal Robots
+通过分层强化学习组合行走、跳跃、攀爬和低姿穿越等技能，使 ANYmal 自主完成连续跑酷障碍。
+链接：https://doi.org/10.1126/scirobotics.adi7566
+
+Development of a Small-Sized Quadruped Robotic Rat Capable of Multimodal Motions
+研制具有柔性脊柱和多模态运动能力的小型机器鼠 SQuRo，使其能够在狭窄环境中运动、负载并从跌倒中恢复。
+链接：https://doi.org/10.1109/TRO.2022.3159188
+
+Lateral Flexion of a Compliant Spine Improves Motor Performance in a Bioinspired Mouse Robot
+通过仿生机器鼠 NeRmo 证明柔顺脊柱的侧向弯曲可以提升静态稳定性、步行速度和转向灵活性。
+链接：https://doi.org/10.1126/scirobotics.adg7165
+
+Learning Diverse Natural Behaviors for Enhancing the Agility of Quadrupedal Robots
+利用犬类动作捕捉、半监督模仿学习和任务控制器，让四足机器人学习多种自然步态并完成复杂敏捷任务。
+链接：https://doi.org/10.1038/s41467-026-72475-9
+
+Learning Locomotion on Discrete Terrain via Minimal Proximity Sensing
+将低成本红外接近传感器嵌入机器人足端，为强化学习策略提供触地前信息，从而提高跨越缝隙和踏脚石等离散地形的可靠性。
+链接：https://arxiv.org/abs/2606.31912
