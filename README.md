@@ -72,9 +72,11 @@
 
 说明：原始压缩包 `Archive.zip` 本身不上传；其解压后的资料文件上传到 `materials/Archive/`。
 
-## 学习情况记录表
+## 时间表
 【腾讯文档】小鼠机器人项目学习进度表
 - https://docs.qq.com/sheet/DSkZ1TVdJYVdobG54
+【腾讯文档】文献汇报时间表
+- https://docs.qq.com/sheet/DSkFLSGJxVGtFVUZL?tab=BB08J2
 
 ## 论文清单
 Advances, Challenges, and Opportunities for Legged Robots
