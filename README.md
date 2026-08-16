@@ -75,7 +75,7 @@
 ## 时间表
 【腾讯文档】小鼠机器人项目学习进度表
 - https://docs.qq.com/sheet/DSkZ1TVdJYVdobG54
-【腾讯文档】文献汇报时间表
+- 【腾讯文档】文献汇报时间表
 - https://docs.qq.com/sheet/DSkFLSGJxVGtFVUZL?tab=BB08J2
 
 ## 论文清单
